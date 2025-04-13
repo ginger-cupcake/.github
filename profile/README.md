@@ -10,3 +10,19 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### Why Ginger Cupcake
+
+- 🤣 Teacher Ginger can cosplay everything.
+- 🍰 Create a component just like make ad cupcake.
+
+### What can we do
+
+1. clone the starter
+2. edit template component
+3. run build
+4. release versions of vanilla vue react
+
+---
+
+[MIT LICENSE](https://github.com/ginger-cupcake/.github/blob/master/LICENSE)
